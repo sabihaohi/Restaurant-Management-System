@@ -1,0 +1,17 @@
+[
+    {
+        "fname": "Sabiha",
+        "lname": "Ohi",
+        "gender": "Female",
+        "rname": "The Grove",
+        "email": "sabiha@gmail.com",
+        "password": "sabiha",
+        "sq": "html",
+        "image": "..\/images\/The Grove.jpeg",
+        "address": "Kuril",
+        "district": "Dhaka",
+        "division": "Dhaka",
+        "postcode": "1229",
+        "country": "Bangladesh"
+    }
+]
